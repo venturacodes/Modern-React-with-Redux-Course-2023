@@ -8,7 +8,7 @@ A idéia é que digitando o carro a ser buscado no input text,
 a API vai retornar as informações em JSON e o programa vai popular
 as imagens da melhor maneira possível.
 
-### Aprendizado
+## Aprendizado
 
 Nesse projeto você irá aprender:
 * Criar um aplicativo WEB utilizando a biblioteca React.
@@ -18,10 +18,10 @@ Nesse projeto você irá aprender:
 * Entender como lidar com **listas** e **mapear** as informações importantes vindas da API.
 * Comunicação entre componentes REACT.
 
-### Utilização
-**Para usar esse projeto é necessária instalação do NodeJS v19.1.0.**  
+## Utilização
+### Para usar esse projeto é necessária instalação do NodeJS v19.1.0.  
 
-Passo a passo abaixo:
+Para utilizar o projeto, passo a passo abaixo:
 
 * Baixe o **.zip** do projeto.
 * Extraia na pasta da sua preferência.
