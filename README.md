@@ -17,3 +17,17 @@ Nesse projeto você irá aprender:
 * Entender sobre eventos e event-handlers no React.
 * Entender como lidar com **listas** e **mapear** as informações importantes vindas da API.
 * Comunicação entre componentes REACT.
+
+### Utilização
+**Para usar esse projeto é necessária instalação do NodeJS v19.1.0.**  
+
+Passo a passo abaixo:
+
+* Baixe o **.zip** do projeto.
+* Extraia na pasta da sua preferência.
+* Acesse a pasta via terminal
+* No terminal, execute o comando:
+```javascript
+npm start
+```
+    
