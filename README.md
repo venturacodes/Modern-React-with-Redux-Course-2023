@@ -17,6 +17,8 @@ Nesse projeto você irá aprender:
 * Entender sobre eventos e event-handlers no React.
 * Entender como lidar com **listas** e **mapear** as informações importantes vindas da API.
 * Comunicação entre componentes REACT.
+* Uso da unsplash API para baixar e exibir imagens.
+* Utilização de CSS grid para organização e exibição do conteúdo.
 
 ## Utilização
 ### Para usar esse projeto é necessária instalação do NodeJS v19.1.0.  
